@@ -1,0 +1,5 @@
+In Alien Invasion, a ship appears at the bottom center of the screen that the player moves (Left and Right) to destroy alien ships. When the game begins, a fleet of aliens appears and move Across and Down the screen. The player shoots with the spacebar.
+
+As the game progresses, a new fleet appears once the first wave of aliens have been shot that moves faster than the previous fleet. 
+
+If an alien hits the player's ship or reaches the bottom of the screen, the player loses a life/ship. If the player loses three ships, the game ends.
